@@ -1,0 +1,6 @@
+{
+  "name": "Super Blob Blaster 3D - Clon Exacto Emupedia",
+  "description": "Clon idéntico en primera persona 3D de Super Blob Blaster de Emupedia: corredores sci-fi, pistola de plasma con respiraderos naranjas, blobs azules con cuernos, sangre, HUD real y archivo index.html descargable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
